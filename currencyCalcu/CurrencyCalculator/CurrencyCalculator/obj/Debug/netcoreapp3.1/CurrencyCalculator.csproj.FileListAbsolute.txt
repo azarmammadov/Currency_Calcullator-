@@ -1,0 +1,60 @@
+C:\Users\HP\Desktop\currency calculator\CurrencyCalculator\CurrencyCalculator\bin\Debug\netcoreapp3.1\CurrencyCalculator.exe
+C:\Users\HP\Desktop\currency calculator\CurrencyCalculator\CurrencyCalculator\bin\Debug\netcoreapp3.1\CurrencyCalculator.deps.json
+C:\Users\HP\Desktop\currency calculator\CurrencyCalculator\CurrencyCalculator\bin\Debug\netcoreapp3.1\CurrencyCalculator.runtimeconfig.json
+C:\Users\HP\Desktop\currency calculator\CurrencyCalculator\CurrencyCalculator\bin\Debug\netcoreapp3.1\CurrencyCalculator.runtimeconfig.dev.json
+C:\Users\HP\Desktop\currency calculator\CurrencyCalculator\CurrencyCalculator\bin\Debug\netcoreapp3.1\CurrencyCalculator.dll
+C:\Users\HP\Desktop\currency calculator\CurrencyCalculator\CurrencyCalculator\bin\Debug\netcoreapp3.1\CurrencyCalculator.pdb
+C:\Users\HP\Desktop\currency calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\currency calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\currency calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\currency calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\currency calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.AssemblyInfo.cs
+C:\Users\HP\Desktop\currency calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\currency calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.dll
+C:\Users\HP\Desktop\currency calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.pdb
+C:\Users\HP\Desktop\currency calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.genruntimeconfig.cache
+C:\Users\HP\Desktop\currency calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.Properties.Resources.resources
+C:\Users\HP\Desktop\currency calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.valyuta1.resources
+C:\Users\HP\Desktop\currency calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.valyuta2.resources
+C:\Users\HP\Desktop\currency calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.valyuta3.resources
+C:\Users\HP\Desktop\currency calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.calculator.resources
+C:\Users\HP\Desktop\currency____ calculator\CurrencyCalculator\CurrencyCalculator\bin\Debug\netcoreapp3.1\CurrencyCalculator.exe
+C:\Users\HP\Desktop\currency____ calculator\CurrencyCalculator\CurrencyCalculator\bin\Debug\netcoreapp3.1\CurrencyCalculator.deps.json
+C:\Users\HP\Desktop\currency____ calculator\CurrencyCalculator\CurrencyCalculator\bin\Debug\netcoreapp3.1\CurrencyCalculator.runtimeconfig.json
+C:\Users\HP\Desktop\currency____ calculator\CurrencyCalculator\CurrencyCalculator\bin\Debug\netcoreapp3.1\CurrencyCalculator.runtimeconfig.dev.json
+C:\Users\HP\Desktop\currency____ calculator\CurrencyCalculator\CurrencyCalculator\bin\Debug\netcoreapp3.1\CurrencyCalculator.dll
+C:\Users\HP\Desktop\currency____ calculator\CurrencyCalculator\CurrencyCalculator\bin\Debug\netcoreapp3.1\CurrencyCalculator.pdb
+C:\Users\HP\Desktop\currency____ calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\currency____ calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.calculator.resources
+C:\Users\HP\Desktop\currency____ calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.Properties.Resources.resources
+C:\Users\HP\Desktop\currency____ calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.valyuta1.resources
+C:\Users\HP\Desktop\currency____ calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.valyuta2.resources
+C:\Users\HP\Desktop\currency____ calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.valyuta3.resources
+C:\Users\HP\Desktop\currency____ calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\currency____ calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\currency____ calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\currency____ calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.AssemblyInfo.cs
+C:\Users\HP\Desktop\currency____ calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\currency____ calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.dll
+C:\Users\HP\Desktop\currency____ calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.pdb
+C:\Users\HP\Desktop\currency____ calculator\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.genruntimeconfig.cache
+C:\Users\HP\Desktop\currencyCalcu\CurrencyCalculator\CurrencyCalculator\bin\Debug\netcoreapp3.1\CurrencyCalculator.exe
+C:\Users\HP\Desktop\currencyCalcu\CurrencyCalculator\CurrencyCalculator\bin\Debug\netcoreapp3.1\CurrencyCalculator.deps.json
+C:\Users\HP\Desktop\currencyCalcu\CurrencyCalculator\CurrencyCalculator\bin\Debug\netcoreapp3.1\CurrencyCalculator.runtimeconfig.json
+C:\Users\HP\Desktop\currencyCalcu\CurrencyCalculator\CurrencyCalculator\bin\Debug\netcoreapp3.1\CurrencyCalculator.runtimeconfig.dev.json
+C:\Users\HP\Desktop\currencyCalcu\CurrencyCalculator\CurrencyCalculator\bin\Debug\netcoreapp3.1\CurrencyCalculator.dll
+C:\Users\HP\Desktop\currencyCalcu\CurrencyCalculator\CurrencyCalculator\bin\Debug\netcoreapp3.1\CurrencyCalculator.pdb
+C:\Users\HP\Desktop\currencyCalcu\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\currencyCalcu\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.calculator.resources
+C:\Users\HP\Desktop\currencyCalcu\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.Properties.Resources.resources
+C:\Users\HP\Desktop\currencyCalcu\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.valyuta1.resources
+C:\Users\HP\Desktop\currencyCalcu\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.valyuta2.resources
+C:\Users\HP\Desktop\currencyCalcu\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.valyuta3.resources
+C:\Users\HP\Desktop\currencyCalcu\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\currencyCalcu\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\currencyCalcu\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\currencyCalcu\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.AssemblyInfo.cs
+C:\Users\HP\Desktop\currencyCalcu\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\currencyCalcu\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.dll
+C:\Users\HP\Desktop\currencyCalcu\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.pdb
+C:\Users\HP\Desktop\currencyCalcu\CurrencyCalculator\CurrencyCalculator\obj\Debug\netcoreapp3.1\CurrencyCalculator.genruntimeconfig.cache

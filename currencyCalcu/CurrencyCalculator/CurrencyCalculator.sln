@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurrencyCalculator", "CurrencyCalculator\CurrencyCalculator.csproj", "{94A7A68F-F613-46A5-9D4B-AC3653880BAC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Currency_Calculator", "Currency_Calculator\Currency_Calculator.vdproj", "{C8968BB9-A96F-4DAF-8C8D-15FC4EDAD803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94A7A68F-F613-46A5-9D4B-AC3653880BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A7A68F-F613-46A5-9D4B-AC3653880BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A7A68F-F613-46A5-9D4B-AC3653880BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A7A68F-F613-46A5-9D4B-AC3653880BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8968BB9-A96F-4DAF-8C8D-15FC4EDAD803}.Debug|Any CPU.ActiveCfg = Debug
+		{C8968BB9-A96F-4DAF-8C8D-15FC4EDAD803}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF42AE49-A8F5-4125-8CBE-62A7FBEFFE4C}
+	EndGlobalSection
+EndGlobal
